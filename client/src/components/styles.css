@@ -1,0 +1,10 @@
+.btn-animate {
+  transition: transform 0.2s ease;
+}
+.btn-animate:active {
+  transform: scale(0.95);
+}
+.product-card:hover {
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+  transition: 0.3s;
+}
